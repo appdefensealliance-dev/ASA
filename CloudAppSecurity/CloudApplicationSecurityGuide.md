@@ -1,4 +1,4 @@
-# Application Defense Alliance Cloud Security Guide
+# Application Security Guide
 
 ## Version History
 | Version | Date | Description |

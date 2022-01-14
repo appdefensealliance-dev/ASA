@@ -9,7 +9,7 @@ The App Defense Alliance maintains a catalog of applications which have gone thr
 
 This repository is maintained by the ADA approved security assessment companies. We encourage input through the issues page from both security assessors and developers. If you are interested in becoming an ADA approved security assessor, please visit [www.AppDefenseAlliance.dev](https://www.appdefensealliance.dev/)
 
-![ADA Pyramid](https://github.com/appdefensealliance/ASA/blob/main/MobileAppSecurityAssessment/ADA%20Pyramid.png)
+![ADA Pyramid](../Images/ADAPyramid.png)
 
 # OWASP
 The Open Web Application Security Project® (OWASP) is a nonprofit foundation that works to improve the security of software. Through community-led open-source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web.

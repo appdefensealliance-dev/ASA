@@ -1,9 +1,5 @@
-# Application Security Guide
-
-## Version History
-| Version | Date | Description |
-| ----- | ----- | --------------- |
-| 0.50 | 11/15/2021 | Initial version based on OWASP ASVS 4.0.3 |
+# Application Defense Alliance Cloud Security Guide
+![CloudSecurityDiagram](../Images/CloudSecurityDiagram.png)
 
 ## [V1 Architecture, Design and Threat Modeling Requirements](https://github.com/OWASP/ASVS/blob/master/4.0/en/0x10-V1-Architecture.md#v1-architecture-design-and-threat-modeling)
 | ID | Criteria | Summary |
@@ -126,3 +122,6 @@
 | 20.3 Vulnerability Disclosure Program | [Vulnerability Disclosure Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html) | Provides a means for external parties to report vulnerabilities |
 | 20.4 Information Security Policy | | Ensures that all users comply with rules and guidelines related to the security of the information stored digitally at any point in the network |
 | 20.5 Privacy User Data Detection | | Ensures that users can delete their accounts and related user data by demonstrating an account deletion if relevant |
+
+
+

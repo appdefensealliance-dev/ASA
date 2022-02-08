@@ -2,7 +2,7 @@
 
 ![ADA LOGO](../Images/AdaLogoLarge.png)
 
-## Mobile Application Security Assessment 1.0
+## Mobile Application Security Assessment 1.4-1.4
 
 ## Final
 
@@ -16,10 +16,11 @@ January 2022
 | ------ | ------ | --------------- |
 | 1.0 | 12/1/2021 | Initial release based on OWASP MASVS version 1.3 and MSTG version 1.2 |
 | 1.1 | 1/11/2022 | No change to ADA specifications. OWASP MASVS updated to version 1.4 and MSTG updated to version 1.3 |
+| 1.4-1.4 | 2/8/2022 | No change to ADA specifications. No change to OWASP MASVS.  MSTG updated to version 1.4 |
 
 ## Copyright and License
 
-Version 1.1, January 2022
+Version 1.4-1.4, January 2022
 
 ![license](../Images/License.png)
 

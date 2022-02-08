@@ -6,7 +6,7 @@
 | ---- | ---- | ---------------- |
 | 1.0 | 11/15/2021 | Initial version based on OWASP MASVS version 1.3 and MSTG Version 1.2 |
 | 1.1 | 1/11/2022 | No change to ADA specifications. OWASP MASVS updated to version 1.4 and MSTG updated to version 1.3 |
-| 1.4-1.4 | 2/8/2022 | No change to ADA specifications. No change to OWASP MASVS.  MSTG updated to version 1. |
+| 1.4-1.4 | 2/8/2022 | No change to ADA specifications. No change to OWASP MASVS.  MSTG updated to version 1.4 |
 
 ## [V1: Architecture, Design and Threat Modeling Requirements](https://github.com/OWASP/owasp-masvs/blob/v1.4.0/Document/0x06-V1-Architecture_design_and_threat_modelling_requireme.md)
 | ID | MSTG-ID | Description | Test Procedures |

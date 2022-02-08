@@ -3,7 +3,14 @@ It is our mission to ensure the safety of the Google ecosystem.  The App Defense
 
 
 ## Cloud Application Security Assessment
-The App Defense Alliance maintains a catalog of applications which have gone through 3rd party security assessments based on the OWASP Application Security Validation Standard (ASVS). Specifically, the portions of the standard found in the [ADA Cloud Security Guide (CSG)](./Specification.md). The CGS is focused on Level 1 and Level 2 requirements which may be assessed by a third party. The assessment is focused on the 14 core elements from ASVS as viewed from the external interfaces to the cloud application. The ADA CSG is not focused on internal developer processes or cloud infrastructure. 
+The App Defense Alliance maintains a catalog of applications which have gone through 3rd party security assessments based on the OWASP Application Security Validation Standard (ASVS). Specifically, the portions of the standard found in the [ADA Cloud Security Guide (CSG)](./CloudApplicationSecurityGuide.md).
+
+CASA recognizes three tiers of assessment for cloud applications
+
+* Tier three assessments require the developer to complete a self assessment questionnaire, which is then reviewed by a CASA Authorized Lab. This is a paper review of the developer supplied information.
+* Tier two assessments require the developer to complete a self assessment questionnaire, which is then reviewed by a CASA Authorized Lab. This is a paper review of the developer supplied information, with the addition of configuration checks.
+* Tier one assessments include the steps of tier two, plus a full security assessment by the CASA Authorized Lab.
+
 
 This repository is maintained by the ADA approved security assessment companies. We encourage input through the issues page from both security assessors and developers. If you are interested in becoming an ADA approved security assessor, please visit [www.appdefensealliance.dev](https://www.appdefensealliance.dev/)
 

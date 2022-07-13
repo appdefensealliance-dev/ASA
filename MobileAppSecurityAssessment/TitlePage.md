@@ -34,7 +34,7 @@ This document includes material from [OWASP Mobile Application Security Validati
 |                	|                	|                   	|
 |----------------	|----------------	|-------------------	|
 | DEKRA 	| Leviathon Security | NCC Group    	|
-| NowSecure 	|      	|  	|
+| NowSecure 	| Bishop Fox      	|  	|
 
 
 

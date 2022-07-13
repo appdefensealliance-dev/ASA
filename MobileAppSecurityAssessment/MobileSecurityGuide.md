@@ -7,11 +7,7 @@
 | 1.0 | 11/15/2021 | Initial version based on OWASP MASVS version 1.3 and MSTG Version 1.2 |
 | 1.1 | 1/11/2022 | No change to ADA specifications. OWASP MASVS updated to version 1.4 and MSTG updated to version 1.3 |
 | 1.4-1.4 | 2/8/2022 | No change to ADA specifications. No change to OWASP MASVS.  MSTG updated to version 1.4 |
-
-## [V1: Architecture, Design and Threat Modeling Requirements](https://github.com/OWASP/owasp-masvs/blob/v1.4.0/Document/0x06-V1-Architecture_design_and_threat_modelling_requireme.md)
-| ID | MSTG-ID | Description | Test Procedures |
-| -- | ---------- | ---------------------- | -------- |
-| 1.2 | MSTG-ARCH-2 | Security controls are never enforced only on the client side, but on the respective remote endpoints. | [Injection Flaws](https://github.com/OWASP/owasp-mstg/blob/v1.4.0/Document/0x04h-Testing-Code-Quality.md#injection-flaws-mstg-arch-2-and-mstg-platform-2) <br><br>[Verifying that Appropriate Authentication is in Place](https://github.com/OWASP/owasp-mstg/blob/v1.4.0/Document/0x04e-Testing-Authentication-and-Session-Management.md#verifying-that-appropriate-authentication-is-in-place-mstg-arch-2-and-mstg-auth-1)|
+| 1.5 | 7/13/2022 | Removed v1 from ADA specifications. No change to OWASP MASVS version 1.4 or MSTG version 1.4 |
 
 ## [V2: Data Storage and Privacy Requirements](https://github.com/OWASP/owasp-masvs/blob/v1.4.0/Document/0x07-V2-Data_Storage_and_Privacy_requirements.md)
 | ID | MSTG-ID | Description | Test Procedures |

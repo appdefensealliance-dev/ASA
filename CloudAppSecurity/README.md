@@ -3,7 +3,7 @@ It is our mission to ensure the safety of the Google ecosystem.  The App Defense
 
 
 ## Cloud Application Security Assessment
-The App Defense Alliance maintains a catalog of applications which have gone through 3rd party security assessments based on the OWASP Application Security Validation Standard (ASVS). Specifically, the portions of the standard found in the [ADA Cloud Security Guide (CSG)](./CloudApplicationSecurityGuide.md).
+The App Defense Alliance maintains a catalog of applications which have gone through 3rd party security assessments based on the OWASP Application Security Verification Standard (ASVS). Specifically, the portions of the standard found in the [ADA Cloud Security Guide (CSG)](./CloudApplicationSecurityGuide.md).
 
 CASA recognizes three tiers of assessment for cloud applications
 

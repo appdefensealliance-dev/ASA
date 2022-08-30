@@ -16,7 +16,7 @@ The Open Web Application Security Project® (OWASP) is a nonprofit foundation th
 
 For more information, please visit www.owasp.org.
 
-# MASVS and MSTG
+# MASVS and MASTG
 The Mobile Application Security Verification Standard (MASVS) is a community effort to establish a framework of security requirements needed to design, develop and test secure mobile apps on iOS and Android. These security requirements are mapped onto eight core areas ranging from Applicaiton Architecture and threat modeling, Data Storage and Privacy, to Securing the communications between the applciation and both local and remote connections. This standard is maintained by OWASP and can be found at this [link](https://github.com/OWASP/owasp-masvs).
 
-The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering for iOS and Android mobile security testers based on the MASVS. The MSTG is a sister project to the MASVS and provides the testing details and acceptance requirements for each of the MASVS requirements. The MSTG is maintained by OWASP and can be found at this [link](https://github.com/OWASP/owasp-mstg).
+The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering for iOS and Android mobile security testers based on the MASVS. The MASTG is a sister project to the MASVS and provides the testing details and acceptance requirements for each of the MASVS requirements. The MASTG is maintained by OWASP and can be found at this [link](https://github.com/OWASP/owasp-mstg).

@@ -4,10 +4,10 @@
 ## Version History
 | Version | Date | Descirption |
 | ---- | ---- | ---------------- |
-| 1.0 | 11/15/2021 | Initial version based on OWASP MASVS version 1.3 and MSTG Version 1.2 |
-| 1.1 | 1/11/2022 | No change to ADA specifications. OWASP MASVS updated to version 1.4 and MSTG updated to version 1.3 |
-| 1.4-1.4 | 2/8/2022 | No change to ADA specifications. No change to OWASP MASVS.  MSTG updated to version 1.4 |
-| 1.5 | 7/13/2022 | Removed v1 from ADA specifications. No change to OWASP MASVS version 1.4 or MSTG version 1.4 |
+| 1.0 | 11/15/2021 | Initial version based on OWASP MASVS version 1.3 and MASTG Version 1.2 |
+| 1.1 | 1/11/2022 | No change to ADA specifications. OWASP MASVS updated to version 1.4 and MASTG updated to version 1.3 |
+| 1.4-1.4 | 2/8/2022 | No change to ADA specifications. No change to OWASP MASVS.  MASTG updated to version 1.4 |
+| 1.5 | 7/13/2022 | Removed v1 from ADA specifications. No change to OWASP MASVS version 1.4 or MASTG version 1.4 |
 
 ## [V2: Data Storage and Privacy Requirements](https://github.com/OWASP/owasp-masvs/blob/v1.4.0/Document/0x07-V2-Data_Storage_and_Privacy_requirements.md)
 | ID | MSTG-ID | Description | Test Procedures |

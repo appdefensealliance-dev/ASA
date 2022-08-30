@@ -25,7 +25,7 @@ Version 1.0, December 2021
 
 Copyright © 2021 Google. This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-This document includes material from [OWASP Application Security Validation Standard](https://github.com/OWASP/owasp-asvs) released under the Creative Commons Attribution ShareAlike 3.0 license.
+This document includes material from [OWASP Application Security Verification Standard](https://github.com/OWASP/owasp-asvs) released under the Creative Commons Attribution ShareAlike 3.0 license.
 
 
 ## Major Contributors
